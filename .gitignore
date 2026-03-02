@@ -1,0 +1,5 @@
+.env
+err.log
+error.txt
+execution_output.txt
+chat_history.txt
